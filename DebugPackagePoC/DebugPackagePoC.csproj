@@ -1,9 +1,17 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
-    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <Version>0.1.0-alpha</Version>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <Version>0.2.0-alpha</Version>
+    <EmbedAllSoruces>true</EmbedAllSoruces>
   </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="SourceLink.Embed.AllSourceFiles" Version="2.8.3">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
 
 </Project>
