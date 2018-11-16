@@ -1,0 +1,9 @@
+C:\Users\aNDREW.shurman\source\repos\DebugPackagePoC\DebugPackagePoC\bin\Debug\netcoreapp2.1\DebugPackagePoC.deps.json
+C:\Users\aNDREW.shurman\source\repos\DebugPackagePoC\DebugPackagePoC\bin\Debug\netcoreapp2.1\DebugPackagePoC.dll
+C:\Users\aNDREW.shurman\source\repos\DebugPackagePoC\DebugPackagePoC\obj\Debug\netcoreapp2.1\DebugPackagePoC.csprojAssemblyReference.cache
+C:\Users\aNDREW.shurman\source\repos\DebugPackagePoC\DebugPackagePoC\obj\Debug\netcoreapp2.1\DebugPackagePoC.csproj.CoreCompileInputs.cache
+C:\Users\aNDREW.shurman\source\repos\DebugPackagePoC\DebugPackagePoC\obj\Debug\netcoreapp2.1\DebugPackagePoC.AssemblyInfoInputs.cache
+C:\Users\aNDREW.shurman\source\repos\DebugPackagePoC\DebugPackagePoC\obj\Debug\netcoreapp2.1\DebugPackagePoC.AssemblyInfo.cs
+C:\Users\aNDREW.shurman\source\repos\DebugPackagePoC\DebugPackagePoC\obj\Debug\netcoreapp2.1\DebugPackagePoC.dll
+C:\Users\aNDREW.shurman\source\repos\DebugPackagePoC\DebugPackagePoC\bin\Debug\netcoreapp2.1\DebugPackagePoC.pdb
+C:\Users\aNDREW.shurman\source\repos\DebugPackagePoC\DebugPackagePoC\obj\Debug\netcoreapp2.1\DebugPackagePoC.pdb
